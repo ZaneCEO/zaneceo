@@ -4,12 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Tech expert, DevOps specialist, TurboLab.it founder
 ---------------------------------------------------
 
-I work as a backend software developer (PHP, Symfony, SQL, ...) and system administrator (nginx, Apache HTTP Server, MySQL, ...). I merge the two with GitOps and a lot of Bash scripting. On the weekend, I develop my no-profit website, [TurboLab.it](https://turbolab.it], where I publish my own tech articles and those of a wonderful community of like-minded geeks and friends. I transform my best articles into videos for the [related, 20k+ subs YouTube channel](https://www.youtube.com/c/turbolabit?sub_confirmation=1).
+I work as a backend software developer (PHP, Symfony, SQL, ...) and system administrator (nginx, Apache HTTP Server, MySQL, ...). I merge the two with GitOps and a lot of Bash scripting.
+
+On the weekend, I develop my no-profit website, [TurboLab.it](https://turbolab.it), where I publish my own tech articles and those of a wonderful community of like-minded geeks and friends. I transform my best articles into videos for the [related, 20k+ subs YouTube channel](https://www.youtube.com/c/turbolabit?sub_confirmation=1).
 
 *   🌍  I'm based in [Ferrara (Italy)](https://www.google.com/maps/place/Province+of+Ferrara/)
 *   🖥️  See my portfolio at [GitHub](http://github.com/TurboLabIt)
 *   ✉️  You can contact me at [info@zane.it](mailto:info@zane.it)
-*   🚀  I'm currently working on [Webstackup](http://github.com/TurboLabIt/webstackup)
+*   🚀  I'm currently working on [Webstackup](http://github.com/TurboLabIt/webstackup), [TurboLab.it 2.0](https://github.com/TurboLabIt/TurboLab.it)
 *   🧠  I'm learning Symfony, constantly
 
 ### Skills 
